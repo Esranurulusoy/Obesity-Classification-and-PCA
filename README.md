@@ -1,4 +1,4 @@
-# Obesity--Classification-and-PCA
+# Obesity-Classification-and-PCA
 
 🧠 Obesity Prediction with Machine Learning
 Bu proje, bireylerin fiziksel özellikleri ve yaşam tarzı alışkanlıklarına göre obezite seviyelerini tahmin etmeyi amaçlayan bir makine öğrenimi çalışmasıdır. Proje, Kaggle'dan alınan veri seti ile gerçekleştirilmiştir.
